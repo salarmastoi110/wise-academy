@@ -39,7 +39,6 @@ A well-designed, mobile-friendly website showcases our mission, team, and course
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wise-academy.git
 
 👨‍💻 Developed By
 Salar Mastoi
